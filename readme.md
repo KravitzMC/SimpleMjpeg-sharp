@@ -1,4 +1,4 @@
-<h2>IP Camera from H264/265 VS. MJPEG Compare CPU Usage</h2>
+<h2>CCTV / IP Camera from H264/265 VS. MJPEG Compare CPU Usage</h2>
 
 Library to decode MJPEG streams.  Sample code showing usage is included with the distribution.  For more information, see the full article at Coding4Fun.
 
