@@ -1,5 +1,5 @@
 <h2>Multiple CCTV / IP Camera from H264/265 VS. MJPEG Compare CPU Usage</h2>
-<h4>Library to decode MJPEG streams from Multiple CCTV / IP Camera. For who want reduct CPU Usage without video decode. becuase H264/265 is video compression encode it's very use CPU!!!
+<h4>Library to decode MJPEG streams . For who want reduct CPU Usage from Multiple CCTV / IP Camera. becuase H264/265 is video compression encode it's very use CPU!!!
 </h4>
 Sample code showing usage is included with the distribution.  For more information, see the full article at Coding4Fun.
 
