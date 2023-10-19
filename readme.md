@@ -1,3 +1,5 @@
+<h1>H264/265 VS. MJPEG CPU Usage</h1>
+
 Library to decode MJPEG streams.  Sample code showing usage is included with the distribution.  For more information, see the full article at Coding4Fun.
 
 * [Coding4Fun Article](http://channel9.msdn.com/coding4fun/articles/MJPEG-Decoder)
